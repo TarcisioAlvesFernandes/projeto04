@@ -1,0 +1,12 @@
+cwebp img1.jpg -q 80 -o img1.webp
+cwebp img2.jpg -q 80 -o img2.webp
+cwebp img3.jpg -q 80 -o img3.webp
+cwebp img4.jpg -q 80 -o img4.webp
+cwebp img5.jpg -q 80 -o img5.webp
+cwebp img6.jpg -q 80 -o img6.webp
+cwebp img7.jpg -q 80 -o img7.webp
+cwebp img8.jpg -q 80 -o img8.webp
+cwebp img9.jpg -q 80 -o img9.webp
+cwebp img10.jpg -q 80 -o img10.webp
+cwebp img11.jpg -q 80 -o img11.webp
+cwebp img12.jpg -q 80 -o img12.webp
