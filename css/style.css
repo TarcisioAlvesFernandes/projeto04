@@ -101,51 +101,51 @@ header nav ul li a{
 }
 
 .mosaico-single:nth-of-type(1) .img-mosaico-single:nth-of-type(1){
-	background-image: url("../imagens/img1.jpg");
+	background-image: url("../imagens/img1.webp");
 }
 
 .mosaico-single:nth-of-type(1) .img-mosaico-single:nth-of-type(2){
-	background-image: url("../imagens/img2.jpg");
+	background-image: url("../imagens/img2.webp");
 }
 
 .mosaico-single:nth-of-type(2) .img-mosaico-single:nth-of-type(1){
-	background-image: url("../imagens/img3.jpg");
+	background-image: url("../imagens/img3.webp");
 }
 
 .mosaico-single:nth-of-type(2) .img-mosaico-single:nth-of-type(2){
-	background-image: url("../imagens/img4.jpg");
+	background-image: url("../imagens/img4.webp");
 }
 
 .mosaico-single:nth-of-type(3) .img-mosaico-single:nth-of-type(1){
-	background-image: url("../imagens/img5.jpg");
+	background-image: url("../imagens/img5.webp");
 }
 
 .mosaico-single:nth-of-type(3) .img-mosaico-single:nth-of-type(2){
-	background-image: url("../imagens/img6.jpg");
+	background-image: url("../imagens/img6.webp");
 }
 
 .mosaico-single:nth-of-type(4) .img-mosaico-single:nth-of-type(1){
-	background-image: url("../imagens/img7.jpg");
+	background-image: url("../imagens/img7.webp");
 }
 
 .mosaico-single:nth-of-type(4) .img-mosaico-single:nth-of-type(2){
-	background-image: url("../imagens/img8.jpg");
+	background-image: url("../imagens/img8.webp");
 }
 
 .mosaico-single:nth-of-type(5) .img-mosaico-single:nth-of-type(1){
-	background-image: url("../imagens/img9.jpg");
+	background-image: url("../imagens/img9.webp");
 }
 
 .mosaico-single:nth-of-type(5) .img-mosaico-single:nth-of-type(2){
-	background-image: url("../imagens/img10.jpg");
+	background-image: url("../imagens/img10.webp");
 }
 
 .mosaico-single:nth-of-type(6) .img-mosaico-single:nth-of-type(1){
-	background-image: url("../imagens/img11.jpg");
+	background-image: url("../imagens/img11.webp");
 }
 
 .mosaico-single:nth-of-type(6) .img-mosaico-single:nth-of-type(2){
-	background-image: url("../imagens/img12.jpg");
+	background-image: url("../imagens/img12.webp");
 }
 
 
@@ -163,7 +163,7 @@ section.servicos .container {
 }
 
 section.servicos > .container > .box-servico {
-	background-image: url('../imagens/icone_dente.png');
+	background-image: url('../imagens/icone_dente.webp');
 	background-size: 18px 18px;
 	background-position: center calc(100% - 15px);
 	background-repeat: no-repeat;
@@ -230,7 +230,7 @@ section.perfil-container .perfil-wraper2 {
 section.perfil-container .img-perfil {
 	width: 40%;
 	height: 80%;
-	background-image: url("../imagens/img_perfil.png");
+	background-image: url("../imagens/img_perfil.webp");
 	background-size: 100% 100%;
 }
 
@@ -398,15 +398,49 @@ section.social .instagram-chamada p {
 	padding-top: calc(100% / 12);
 	background-color: blue;	
 	border: 4px solid white;
-
 	color: white;
-	font-size: 25px;	
-
-	background-image: url("../imagens/img3.jpg");
+	font-size: 25px;		
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: auto 100%;
 }
+
+.mosaico-social .img-mosaico-single-social:nth-of-type(1) {
+	background-image: url("../imagens/img1.webp");
+}
+
+.mosaico-social .img-mosaico-single-social:nth-of-type(2) {
+	background-image: url("../imagens/img2.webp");
+}
+
+.mosaico-social .img-mosaico-single-social:nth-of-type(3) {
+	background-image: url("../imagens/img3.webp");
+}
+
+.mosaico-social .img-mosaico-single-social:nth-of-type(4) {
+	background-image: url("../imagens/img4.webp");
+}
+
+.mosaico-social .img-mosaico-single-social:nth-of-type(5) {
+	background-image: url("../imagens/img5.webp");
+}
+
+.mosaico-social .img-mosaico-single-social:nth-of-type(6) {
+	background-image: url("../imagens/img6.webp");
+}
+
+.mosaico-social .img-mosaico-single-social:nth-of-type(7) {
+	background-image: url("../imagens/img7.webp");
+}
+
+.mosaico-social .img-mosaico-single-social:nth-of-type(8) {
+	background-image: url("../imagens/img8.webp");
+}
+
+.mosaico-social .img-mosaico-single-social:nth-of-type(9) {
+	background-image: url("../imagens/img9.webp");
+}
+
 
 
 section.social .facebook-chamada {
